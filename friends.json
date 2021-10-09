@@ -1,0 +1,23 @@
+[
+  {
+    "name": 'Ashly',
+    "hobby": 'Netflix',
+    "age": 21,
+    "phone": 6442010403,
+    "address": 'Cd. Obregon'
+  },
+  {
+    "name": 'Brenda',
+    "hobby": 'Marvel',
+    "age": 21,
+    "phone": 6442001001,
+    "address": 'Cd. Obregon'
+  },
+  {
+    "name": 'Julio',
+    "hobby": 'Netflix',
+    "age": 21,
+    "phone": 3314493808,
+    "address": 'Guadalajara'
+  },
+]
